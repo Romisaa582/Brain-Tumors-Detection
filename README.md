@@ -22,14 +22,7 @@ This project is designed to **automatically detect and classify brain tumors** f
 ✅ **Trained on real medical MRI dataset**  
 
 ---
-## 🚀 How to Run the Project  
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
 
-
------
 # ⚙️ **Technologies Used**  
 - **Python** 🐍  
 - **TensorFlow & Keras** 🧠  
