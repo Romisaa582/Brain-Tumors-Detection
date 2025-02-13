@@ -59,7 +59,7 @@ We welcome contributions! Follow these steps to get started:
 ---
 
 
-## 🔮 Future Improvements  
+# 🔮 Future Improvements  
 🔹 Improve model accuracy with more training data  
 🔹 Add support for 3D MRI scans  
 🔹 Implement a mobile-friendly version of the web app  
