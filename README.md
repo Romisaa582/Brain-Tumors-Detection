@@ -46,7 +46,7 @@ This project is designed to **automatically detect and classify brain tumors** f
 Follow these steps to run the Brain Tumor Detection model on your local machine.  
 
 ### 1️⃣ **Clone the Repository**  
-First, download the project to your local machine:  
+##### First, download the project to your local machine:  
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
