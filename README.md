@@ -54,13 +54,17 @@ We welcome contributions! Follow these steps to get started:
 
 1️⃣ **Fork the repository**  
 2️⃣ **Clone it locally:**  
-```bash
-git clone https://github.com/your-username/your-repository.git
+
 
 ---
+
+
 ## 🔮 Future Improvements  
 🔹 Improve model accuracy with more training data  
 🔹 Add support for 3D MRI scans  
 🔹 Implement a mobile-friendly version of the web app  
 🔹 Provide detailed medical explanations for predictions  
+
+
 ---
+
