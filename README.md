@@ -46,3 +46,7 @@ This project is designed to **automatically detect and classify brain tumors** f
 ### 1️⃣ **Install Dependencies**  
 ```bash
 pip install tensorflow keras opencv-python numpy matplotlib streamlit
+### 2️⃣ **Train the CNN Model**  
+```bash
+python train_model.py
+
