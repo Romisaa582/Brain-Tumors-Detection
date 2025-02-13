@@ -66,10 +66,10 @@ After training the **Brain Tumor Detection** model, it is important to save it f
 
 To save the model after training, use the following command in Python:  
 
-```python
+python
 model.save("brain_tumor_model.keras")
 
----
+
 ---
 
 # 🏆 **Model Performance**  
