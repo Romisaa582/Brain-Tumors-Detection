@@ -41,7 +41,25 @@ This project is designed to **automatically detect and classify brain tumors** f
   
 
 ---
+## 🚀 How to Run the Model  
 
+To use the **Brain Tumor Detection** model, follow these steps:  
+
+1️⃣ **Download the Project**  
+First, download the project files manually or clone the repository using Git.  
+
+2️⃣ **Install the Required Dependencies**  
+Ensure you have **Python** installed, along with the necessary libraries listed in `requirements.txt`.  
+
+3️⃣ **Run the Model for Prediction**  
+You can test the model by providing an MRI image. The model will analyze the image and determine whether a tumor is present or not.  
+
+4️⃣ **Use the Web Interface (Optional)**  
+For an easier experience, run the web application, where you can upload MRI images and get instant predictions.  
+
+Now you’re ready to run the model and detect brain tumors using AI! 🚀  
+
+---
 
 # 🏆 **Model Performance**  
 📌 **Accuracy:** 99,24% on test data  
