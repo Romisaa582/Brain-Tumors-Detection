@@ -4,8 +4,8 @@
 
 # 📸 **Project Snapshots**
 ### 🔹 Tumor Detected  
-![Tumor Detected](https://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20124854.png)
-(https://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20124931.png)
+![Tumor Detected](https://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20124854.pngوhttps://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20124931.png)
+
 
 ### 🔹 No Tumor Detected  
 ![No Tumor Detected](https://github.com/Romisaa582/Brain-Tumors-Detection/blob/main/photo/Screenshot%202025-02-13%20124820.png)
