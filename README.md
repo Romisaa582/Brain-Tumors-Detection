@@ -1,4 +1,4 @@
-# Brain-Tumors-Detection🧠 Brain Tumor Detection using Deep Learning
+🧠 Brain Tumor Detection using Deep Learning
 🚀 An AI-powered system for detecting and classifying brain tumors from MRI images using CNN.
 
 📸 Project Snapshots
