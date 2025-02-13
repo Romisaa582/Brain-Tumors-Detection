@@ -42,11 +42,20 @@ This project is designed to **automatically detect and classify brain tumors** f
 
 ---
 
-# 🚀 **How to Run the Project**  
-### 1️⃣ **Install Dependencies**  
+---
+
+## 🏆 **Model Performance**  
+📌 **Accuracy:** 99,24% on test data  
+📌 **Optimized for medical image classification**  
+
+---
+
+## 🌟 **How to Contribute**  
+We welcome contributions! Follow these steps to get started:  
+
+1️⃣ **Fork the repository**  
+2️⃣ **Clone it locally:**  
 ```bash
-pip install tensorflow keras opencv-python numpy matplotlib streamlit
-### 2️⃣ **Train the CNN Model**  
-```bash
-python train_model.py
+git clone https://github.com/your-username/your-repository.git
+
 
