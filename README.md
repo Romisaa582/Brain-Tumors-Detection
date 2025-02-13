@@ -60,6 +60,16 @@ For an easier experience, run the web application, where you can upload MRI imag
 Now you’re ready to run the model and detect brain tumors using AI! 🚀  
 
 ---
+## 💾 Save the Model  
+
+After training the **Brain Tumor Detection** model, it is important to save it for future use. The trained model can be stored and reloaded whenever needed.  
+
+To save the model after training, use the following command in Python:  
+
+```python
+model.save("brain_tumor_model.keras")
+
+---
 
 # 🏆 **Model Performance**  
 📌 **Accuracy:** 99,24% on test data  
