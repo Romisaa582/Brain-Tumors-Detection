@@ -68,3 +68,11 @@ We welcome contributions! Follow these steps to get started:
 
 ---
 
+
+# 🙏 Acknowledgments  
+Special thanks to:  
+- Open-source contributors for their research on deep learning in medical imaging  
+- The Kaggle community for providing high-quality MRI datasets  
+
+
+---
