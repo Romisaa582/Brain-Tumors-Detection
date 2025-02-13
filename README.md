@@ -32,7 +32,7 @@ This project is designed to **automatically detect and classify brain tumors** f
 
 ---
 
-## 📊 Dataset Information
+# 📊 Dataset Information
 - **Source:** [Kaggle Brain Tumor Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 - **Classes:** Glioma, Meningioma, Pituitary, No Tumor  
 - **Total Images:** 7039 + labeled MRI scans  
@@ -43,13 +43,13 @@ This project is designed to **automatically detect and classify brain tumors** f
 
 
 
-## 🏆 **Model Performance**  
+# 🏆 **Model Performance**  
 📌 **Accuracy:** 99,24% on test data  
 📌 **Optimized for medical image classification**  
 
 ---
 
-## 🌟 **How to Contribute**  
+# 🌟 **How to Contribute**  
 We welcome contributions! Follow these steps to get started:  
 
 1️⃣ **Fork the repository**  
@@ -57,4 +57,10 @@ We welcome contributions! Follow these steps to get started:
 ```bash
 git clone https://github.com/your-username/your-repository.git
 
-
+---
+## 🔮 Future Improvements  
+🔹 Improve model accuracy with more training data  
+🔹 Add support for 3D MRI scans  
+🔹 Implement a mobile-friendly version of the web app  
+🔹 Provide detailed medical explanations for predictions  
+---
